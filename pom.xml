@@ -75,7 +75,7 @@
 <distributionManagement>
     <repository>
         <id>mynexusaccess</id>
-        <url>http://3.109.108.165:8081/repository/maven-snapshots/</url>
+        <url>http://15.207.108.112:8081/repository/maven-snapshots/</url>
     </repository>
 </distributionManagement>
 </project>
